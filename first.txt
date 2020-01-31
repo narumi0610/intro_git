@@ -1,3 +1,5 @@
 これからgitの練習を始めるよ！
 こんにちは
 こんばんは
+git add
+git commit
