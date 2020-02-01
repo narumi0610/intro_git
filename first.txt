@@ -1,8 +1,0 @@
-これからgitの練習を始めるよ！
-こんにちは
-こんばんは
-git add
-git commit
-git rm
-git status
-git diff
