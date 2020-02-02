@@ -3,3 +3,4 @@ git diff
 git commit --amend
 git mergeを追記
 confrict
+pull request
