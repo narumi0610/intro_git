@@ -1,4 +1,4 @@
 git status
 git diff
 git commit --amend
-git merge
+git mergeを追記
